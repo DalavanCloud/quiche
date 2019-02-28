@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Decoder","A QPACK decoder."],["Encoder","A QPACK encoder."],["Header","A name-value pair representing a raw HTTP header."]]});
